@@ -1,5 +1,7 @@
 <h1 align="center">FastFood-App-Frontend</h1>
 
+<img alt="demo" src=".github/demo.gif" width="100%">
+
 ## 📝 Description
 
 This is a simple project that i made while learn React and Redux, is a simple e-commerce interface where the user can interact with a food menu and see the total purchase price. [Live Version](https://fastfood-app-areasflavio.netlify.app)
